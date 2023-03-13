@@ -1,4 +1,4 @@
-// Queue implementation in C
+ // Queue implementation in C
 
 #include <stdio.h>
 #define SIZE 5
